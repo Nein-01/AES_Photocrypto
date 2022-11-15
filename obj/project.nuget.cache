@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nTYYwS1CIT04jxGCWPGBp6/Kp9RLnMlT+p7I0uYjE36KnhL6uJZhVKB+Af5BZ3q8SXX7/GODosGqNS/cm6XX4g==",
+  "success": true,
+  "projectFilePath": "D:\\Nam_Daihoc\\atbmtt\\thi\\ongoing\\AES_GiauTinAnh\\WpfApp1\\AES_GiauTinAnh.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vanqu\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\vanqu\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\vanqu\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
